@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Nexus Studios</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+    <div class="logo">NEXUS STUDIOS</div>
+
+    <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Pricing</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <h1>
+            We Build Digital Experiences
+            That Grow Brands
+        </h1>
+
+        <p>
+            Premium websites designed to help
+            businesses attract customers,
+            increase trust and grow revenue.
+        </p>
+
+        <div class="buttons">
+
+            <a href="#" class="primary-btn">
+                Get Started
+            </a>
+
+            <a href="#" class="secondary-btn">
+                View Portfolio
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="services">
+
+    <h2>Our Services</h2>
+
+    <div class="service-grid">
+
+        <div class="card">
+            <h3>Website Design</h3>
+            <p>
+                Modern responsive websites
+                built for growth.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>E-Commerce</h3>
+            <p>
+                Online stores that convert
+                visitors into customers.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Business Websites</h3>
+            <p>
+                Professional digital presence
+                for businesses.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <h3>Nexus Studios</h3>
+
+    <p>
+        Design. Develop. Elevate.
+    </p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
